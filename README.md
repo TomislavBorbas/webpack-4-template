@@ -11,6 +11,7 @@ npm run build -- production server
 ## Meta
 
 Tomislav Borbaš - [tomislavborbas.com.hr](https://www.tomislavborbas.com.hr) - tomislav.borbasgss@gmail.com
+Ivan Pozderovic - Supporting
 
 ## License
 
