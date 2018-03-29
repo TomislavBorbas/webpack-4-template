@@ -1,0 +1,11 @@
+//adding 3 dots at the end of text if there's no space for it
+
+@mixin truncate($truncation-boundary) {
+  max-width: $truncation-boundary;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+

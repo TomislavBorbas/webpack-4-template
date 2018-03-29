@@ -1,0 +1,28 @@
+.icon {
+
+  &--small {
+    width: $unit * 2;
+    height: $unit * 2;
+  }
+
+  &--medium {
+    width: $unit * 3;
+    height: $unit * 3;
+  }
+
+  &--large {
+    width: $unit * 4;
+    height: $unit * 4;
+  }
+
+  &--extra-large {
+    width: $unit * 6;
+    height: $unit * 6;
+  }
+
+  &--black-mamba {
+    width: $unit * 8;
+    height: $unit * 8;
+  }
+}
+

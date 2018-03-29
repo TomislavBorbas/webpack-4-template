@@ -1,0 +1,24 @@
+// Default colors
+$white: #fff !default;
+$black: #000 !default;
+
+// Text colors  // We will use primary, secondary....
+$color-text: $white;
+
+// Background colors  // We will use primary, secondary....
+$color-background: $white;
+
+// Borders
+$color-borders: $white;
+
+// Utility colors // define based on project after Monika defines it
+$color-warning: $white;
+$color-success: $white;
+$color-info: $white;
+$color-error:$white;
+
+// Opacity for background will be solved on next way,
+// first value defines which color is used
+// second value defines opacity percetange
+// background: rgba($white,.6)
+

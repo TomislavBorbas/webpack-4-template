@@ -1,0 +1,37 @@
+.display-row {
+  display:flex;
+  flex-direction: row;
+}
+
+.display-column {
+  display:flex;
+  flex-direction: column;
+}
+
+.flex-vertical-center {
+  align-items: center;
+}
+
+.flex-horizontal-center {
+  justify-items: center;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.display-block {
+  display:block;
+}
+
+.margin-center {
+  margin: 0 auto;
+}
+
+@include breakpointMax($mobile) {
+  .vh-fallback {
+    min-height: 30rem; // 480px
+  }
+}
+
+

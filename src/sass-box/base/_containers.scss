@@ -1,0 +1,14 @@
+.container--large {
+  width: 100%;
+  max-width: $container-large;
+  @extend .margin-center;
+  height: 100%;
+}
+
+.container--medium {
+  width: 100%;
+  max-width: $container-medium;
+  @extend .margin-center;
+  height: 100%;
+}
+
